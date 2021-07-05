@@ -19,7 +19,8 @@ header {
   border-bottom:#e8491d 3px solid;
 }
 #acme {
-  color:#e8491d;
+  color: lawngreen;
+  font-style: italic;
 }
 header h1 {
   float:left;
